@@ -1,0 +1,57 @@
+{
+  "name": "contao-themes-net/mate-theme-cm-install",
+  "type":"contao-theme",
+  "description": "MATE Theme for Contao 5.3",
+  "keywords":["contao","theme","template"],
+  "homepage": "https://contao-themes.net",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Webdesign für Dresden",
+      "homepage": "https://pdir.de",
+      "email" : "develop@pdir.de",
+      "role" : "Developer"
+    },
+    {
+      "name": "Kostenlose Contao Themes",
+      "homepage": "https://contao-themes.net",
+      "email" : "develop@pdir.de",
+      "role" : "Supplier"
+    }
+  ],
+  "support" : {
+    "docs": "https://docs.contao-themes.net/",
+    "forum": "https://community.contao.org",
+    "email" : "develop@pdir.de",
+    "issues" : "https://github.com/contao-themes-net/mate-theme-bundle/issues",
+    "source" : "https://github.com/contao-themes-net/mate-theme-bundle",
+    "donate": "https://contao-themes.net/sponsoring.html"
+  },
+  "require": {
+    "php": "^8.0",
+    "contao/conflicts": "@dev",
+    "contao/manager-bundle": "4.13.*",
+    "contao-themes-net/mate-theme-bundle": "^2.21"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/user?u=28241718"
+    },
+    {
+      "type": "corporate",
+      "url": "https://contao-themes.net/sponsoring.html"
+    }
+  ],
+  "extra": {
+    "contao-component-dir": "assets"
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "@php vendor/bin/contao-setup"
+    ],
+    "post-update-cmd": [
+      "@php vendor/bin/contao-setup"
+    ]
+  }
+}
