@@ -1,7 +1,7 @@
 {
   "name": "contao-themes-net/mate-theme-cm-install",
   "type":"contao-theme",
-  "version": "4.13",
+  "version": "4.13-p1",
   "description": "MATE Theme for Contao 4.13",
   "keywords":["contao","theme","template","mate","demo"],
   "homepage": "https://contao-themes.net/theme-detail/mate.htmlt",
