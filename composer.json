@@ -1,8 +1,8 @@
 {
   "name": "contao-themes-net/mate-theme-cm-install",
   "type":"contao-theme",
-  "version": "4.13",
-  "description": "MATE Theme for Contao 4.13",
+  "version": "5.3",
+  "description": "MATE Theme for Contao 5.3",
   "keywords":["contao","theme","template","mate","demo"],
   "homepage": "https://contao-themes.net/theme-detail/mate.htmlt",
   "license": "proprietary",
@@ -25,20 +25,20 @@
     "forum": "https://community.contao.org",
     "email" : "develop@pdir.de",
     "issues" : "https://github.com/contao-themes-net/mate-theme-bundle/issues",
-    "source" : "https://github.com/contao-themes-net/mate-theme-bundle",
+    "source" : "https://github.com/contao-themes-net/mate-theme-cm-install",
     "donate": "https://contao-themes.net/sponsoring.html"
   },
   "require": {
-    "php": "^8.0",
-    "contao/calendar-bundle": "4.13.*",
-    "contao/comments-bundle": "4.13.*",
+    "php": "^8.1",
+    "contao/calendar-bundle": "5.3.*",
+    "contao/comments-bundle": "5.3.*",
     "contao/conflicts": "@dev",
-    "contao/faq-bundle": "4.13.*",
-    "contao/listing-bundle": "4.13.*",
-    "contao/manager-bundle": "4.13.*",
-    "contao/news-bundle": "4.13.*",
-    "contao/newsletter-bundle": "4.13.*",
-    "contao-themes-net/mate-theme-bundle": "^2.21"
+    "contao/faq-bundle": "5.3.*",
+    "contao/listing-bundle": "5.3.*",
+    "contao/manager-bundle": "5.3.*",
+    "contao/news-bundle": "5.3.*",
+    "contao/newsletter-bundle": "5.3.*",
+    "contao-themes-net/mate-theme-bundle": "^3.5"
   },
   "funding": [
     {
