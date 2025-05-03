@@ -1,6 +1,11 @@
 # mate-theme-cm-install
 This is the MATE theme distribution repository to use Contao Manager Theme installer 
 
+You can use the following versions directly via the Contao Manager Theme Installer:
+
+- "4.13" with all core extensions like calendar, comments, faq, listing, news and newsletter
+- "4.13-p" for minimal version, the pure version ;)
+
 ## MATE Theme bundle
 
 https://github.com/contao-themes-net/mate-theme-bundle  

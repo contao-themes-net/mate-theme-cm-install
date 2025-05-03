@@ -1,7 +1,7 @@
 {
   "name": "contao-themes-net/mate-theme-cm-install",
   "type":"contao-theme",
-  "version": "4.13",
+  "version": "4.13-p",
   "description": "MATE Theme for Contao 4.13",
   "keywords":["contao","theme","template","mate","demo"],
   "homepage": "https://contao-themes.net/theme-detail/mate.htmlt",
@@ -30,14 +30,8 @@
   },
   "require": {
     "php": "^8.0",
-    "contao/calendar-bundle": "4.13.*",
-    "contao/comments-bundle": "4.13.*",
     "contao/conflicts": "@dev",
-    "contao/faq-bundle": "4.13.*",
-    "contao/listing-bundle": "4.13.*",
     "contao/manager-bundle": "4.13.*",
-    "contao/news-bundle": "4.13.*",
-    "contao/newsletter-bundle": "4.13.*",
     "contao-themes-net/mate-theme-bundle": "^2.21"
   },
   "funding": [
