@@ -30,14 +30,8 @@
   },
   "require": {
     "php": "^8.2",
-    "contao/calendar-bundle": "5.5.*",
-    "contao/comments-bundle": "5.5.*",
     "contao/conflicts": "@dev",
-    "contao/faq-bundle": "5.5.*",
-    "contao/listing-bundle": "5.5.*",
     "contao/manager-bundle": "5.5.*",
-    "contao/news-bundle": "5.5.*",
-    "contao/newsletter-bundle": "5.5.*",
     "contao-themes-net/mate-theme-bundle": "^3.5"
   },
   "funding": [
