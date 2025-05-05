@@ -3,8 +3,10 @@ This is the MATE theme distribution repository to use Contao Manager Theme insta
 
 You can use the following versions directly via the Contao Manager Theme Installer:
 
-- "5.4" with all core extensions like calendar, comments, FAQ, listing, news and newsletter
-- "5.4-p" for minimal version, the pure version ;)
+- "5.5" with all core extensions like calendar, comments, FAQ, listing, news and newsletter
+- "5.5-p" for minimal version, the pure version ;)
+- "5.4" with all core extensions
+- "5.4-p" for minimal version
 - "5.3" with all core extensions
 - "5.3-p" for minimal version
 - "4.13" with all core extensions
